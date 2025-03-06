@@ -10,7 +10,7 @@ I am a graduate in Systems Engineering with knowledge in `C#`, `SQL Server`, `Re
   - Node.js
   - Azure
 - ✌️ I’m looking forward to collaborate on open source projects.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1KlyYeXVHNr0HZtSwewRdJW2PxIZiJiEH/view?usp=drive_link).
+- 💼 I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1KlyYeXVHNr0HZtSwewRdJW2PxIZiJiEH/view?usp=drive_link).
 - Outside of tech, 📖 I love reading visual novels, ♟️ playing chess, 🖌️ doing digital art, and I'm a big coffee enthusiast! ☕
 - 📫 Reach out to me at: <a href="josuealex.27@gmail.com">josuealex.27@gmail.com</a>
 
